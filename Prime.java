@@ -5,7 +5,7 @@ public class Prime {
         System.out.println("Enter a number to check a prime or not");
         int n = me.nextInt();
         boolean isPrime = true;
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i*i < n; i++) {
             if (n%i==0) {
                 isPrime = false;
                 break;
