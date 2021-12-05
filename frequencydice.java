@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class center1 {
+public class frequencydice {
     public static void main(String[] args) 
     {
         Random ran = new Random();
