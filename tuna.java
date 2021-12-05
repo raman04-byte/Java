@@ -1,7 +1,7 @@
 public class tuna {
-    private int hour;
-    private int minute;
-    private int second;
+    private int hour = 1;
+    private int minute = 25;
+    private int second = 56;
 
     public void setTime(int h, int m, int s) {
         hour = ((h >= 0 && h < 24) ? h : 0);
