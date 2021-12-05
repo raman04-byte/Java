@@ -6,5 +6,7 @@ public class center {
         System.out.println(tunaObj.toMilitary());
         tunaObj.setTime(6, 60, 24);
         System.out.println(tunaObj.toMilitary());
+        tunaObj.setTime(13, 25, 60);
+        System.out.println(tunaObj.toPublic());
     }
 }
