@@ -12,8 +12,10 @@ public class center {
         // tunaObj.setTime(1, 25, 60);
         // System.out.println(tunaObj.toPublic());
 
-        tuna1 tuna1Obj = new tuna1();
-        tuna1Obj.getHour();
+        // tuna1 tuna1Obj = new tuna1();
+        // tuna1Obj.getHour();
+
+        tuna2 tuanObject = new tuna2(14,2,2021);
         
     }
 }
