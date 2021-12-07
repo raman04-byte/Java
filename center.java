@@ -15,7 +15,13 @@ public class center {
         // tuna1 tuna1Obj = new tuna1();
         // tuna1Obj.getHour();
 
-        tuna2 raman = new tuna2(14,2,2021);
-        
+        // tuna2 raman = new tuna2(14,2,2021);
+        // tuna3 tunaObj = new tuna3("Raman",raman);
+        // System.out.println(tunaObj);
+        demo demoObj = new demo(12,12,2021);
+        System.out.println();
+        demo1 raman = new demo1("Raman", demoObj);
+        System.out.println(raman);
     }
 }
+    
