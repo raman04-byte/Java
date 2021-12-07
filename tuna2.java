@@ -1,5 +1,3 @@
-import javax.management.loading.MLet;
-
 public class tuna2 
 {
     private int date;

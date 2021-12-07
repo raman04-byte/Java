@@ -15,7 +15,7 @@ public class center {
         // tuna1 tuna1Obj = new tuna1();
         // tuna1Obj.getHour();
 
-        tuna2 tuanObject = new tuna2(14,2,2021);
+        tuna2 raman = new tuna2(14,2,2021);
         
     }
 }
