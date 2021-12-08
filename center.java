@@ -20,8 +20,8 @@ public class center {
         // System.out.println(tunaObj);
         demo demoObj = new demo(12,12,2021);
         System.out.println();
-        // demo1 raman = new demo1("Raman", demoObj);
-        // System.out.println(raman);
+         demo1 raman = new demo1("Raman", demoObj);
+         System.out.println(raman);
     }
 }
     
