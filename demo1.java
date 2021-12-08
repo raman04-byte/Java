@@ -2,7 +2,7 @@ public class demo1 {
     private String name;
     private demo birthday;
 
-    public void demo(String theName, demo theDate)
+    public demo1 (String theName, demo theDate)
     {
         name = theName;
         birthday = theDate;
