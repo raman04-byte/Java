@@ -6,7 +6,7 @@ import java.io.*;
 import java.math.*;
 import java.util.regex.*;  
 
-public class test 
+public class currencyproblem 
 {
     
     public static void main(String[] args) {
